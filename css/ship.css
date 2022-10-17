@@ -1,0 +1,94 @@
+
+.ship{
+    width: 100%;
+    height: 600px;
+    background-image: url(../img/ship1.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index: 0;
+}
+.h01{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 50px;
+    left: 150px;
+    font-size: 3.5em;
+}
+.h03{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 110px;
+    left: 350px;
+    font-size: 2em;
+}
+.h05{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 140px;
+    left: 421px;
+    font-size: 1.5em;
+}
+.container{
+    width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    z-index: 1;
+    margin-top: -290px;
+}
+.p1{
+    color: white;
+    width:350px;
+    margin-bottom: 3px;
+}
+.p2{
+    color: black;
+    width:350px;
+    margin-bottom: 3px;
+}
+.p3{
+    margin-top: 10px;
+}
+.introduction{
+    margin-top: 100px;
+    margin-bottom: 25px;
+}
+.hr{
+    width: 350px;
+    float: left;
+    border-color: gray;
+}
+
+.col8{
+    margin-top: 65px;
+    width: auto;
+    height: 900px;
+}
+.img1{
+    margin-bottom: 50px;
+    
+}
+.img2{
+    margin-top: 15px;
+}
+.img2:hover{
+    transform:scale(1.25,1.25);
+    transition:transform 0.75s ease;
+    }
+.bar1{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+}
+.bar2{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+}
+  footer{
+    width: 100%;
+    margin-top: 40px;
+    text-align: center;
+    background-position: center;
+}

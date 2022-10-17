@@ -1,0 +1,77 @@
+body{
+    margin: 0px;
+}
+.container00{
+    width: 1000px;
+    text-align: center;
+}
+.back{
+    width: 100%;
+    height: 900px;
+    background-color: rgba(0, 0, 0);
+    background-size: cover;
+    background-position: center;
+    animation-name: back;
+    position: absolute;
+    top: 0;
+    animation-duration: 6s;   
+}
+@keyframes back{
+    form{
+        top: 0px;
+
+    }
+    to{
+        top: -1000px;
+    }
+}
+.img01{
+    width: 425px;
+    height: 275px;
+    background-image: url("../img/01.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    animation-name: img01;
+    position: absolute;
+    left: 400px;
+    top: 0px;
+    animation-duration: 6s;
+    animation-delay: 2s;
+    opacity: 0;
+}
+@keyframes img01{
+    0%{
+        opacity: 0;
+        top: 0px;
+
+    }
+    100%{
+        opacity: 100%;
+        top: 400px;
+    }
+}
+/*
+.icon00{
+    width: 431px;
+    height: 431px;
+    background-image: url("../img/icon.jpg");
+    animation-name: icon;
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    animation-duration: 5s;
+
+}
+@keyframes icon{
+    0%{
+        opacity: 0;
+        left: 0;
+    }
+    100%{
+        opacity: 100%;
+        left: 500px;
+    }
+}
+*/
+

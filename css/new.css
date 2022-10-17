@@ -1,0 +1,171 @@
+.img{
+    height: 500px;
+}
+
+.row{
+    margin: 0px;
+}
+
+.carousel-indicators li{
+    max-width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.img1{
+    width: 100%;
+    height: 500px;
+    margin-top: 60px;
+}
+
+.img2{
+    width: 260px;
+    height: 180px;
+    margin-left: -18px;
+    margin-top: -5px;
+}
+
+.img3{
+    width: 238px;
+    height: 238px;
+    margin-left: -17px;
+    margin-top: -3px;
+}
+
+.img4{
+    width: 750px;
+    height: 400px;
+    padding-top: 70px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:link{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: black;
+}
+.row1{
+    margin: 0px;
+}
+
+
+.row1:hover{
+    transform:scale(1.25,1.25);
+    transition:transform 0.75s ease;
+    }
+.r1{
+    border: 3px solid lightgray;
+    text-align: center;
+    height: 350px;
+    max-width: 260px;
+    background-color: white;
+}
+.r1:hover{
+    transform:scale(1.25,1.25);
+    transition:transform 0.75s ease;
+    }
+
+.r2{
+    padding-left: 15px;
+    margin-top: -230px;
+}
+
+.r3{
+    padding-left: 80px;
+    margin-top: -130px;
+}
+
+.r4{
+    border: 3px solid lightgray;
+    text-align: center;
+    height: 380px;
+    max-width: 240px;
+    background-color: white;
+}
+
+.col-md-3{
+    margin: 5px;
+}
+
+.d1{
+    margin-top: 100px;
+}
+
+.t1{
+    color: white;
+    position: absolute;
+    padding-top: 100px;
+    padding-left: 80px;
+    text-shadow: white 0 0 0.2em;
+
+}
+
+.p1{
+    color:white;
+    position: absolute;
+    padding-top: 150px;
+    padding-left: 165px;
+    text-shadow: black 0 0 0.5em;
+}
+
+.t2{
+    color:black;
+    position: absolute;
+    padding-top: 90px;
+    padding-left: 70px;
+}
+
+.t3{
+    color: black;
+    position: absolute;
+    padding-top: 150px;
+    padding-left: 150px;
+}
+
+.p2{
+    color: black;
+    position: absolute;
+    padding-top: 170px;
+    padding-left: 190px;
+}
+
+.t4{
+    color:black;
+    position: absolute;
+    padding-left: 800px;
+    padding-top: 40px;
+}
+
+.p3{
+    color:black;
+    position: absolute;
+    padding-left: 940px;
+    padding-top: 90px;
+}
+
+.c2{
+    text-align: center;
+    padding-top: 45px;
+}
+
+.c3{
+    text-align: center;
+    padding-top: 65px;
+    font-family: '微軟正黑體';
+}
+
+.a1{
+    font-size: 1.5em;
+    color: red;
+}
+.a2{
+    color: rgb(0, 119, 255);
+}
+
+.c4{
+    padding-top: 25px;
+}

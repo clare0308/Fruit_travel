@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+}
+header{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+.bar1{
+    
+    height: 70px;
+    background-color: black;
+
+}
+.container{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.plain{
+    width: 100%;
+    height: 600px;
+    background-image: url(../img/012.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.h01{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 250px;
+    left: 50px;
+    font-size: 3.5em;
+}
+.h03{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 320px;
+    left: 260px;
+    font-size: 2em;
+}
+.h05{
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 360px;
+    left: 320px;
+    font-size: 1.5em;
+}
+.Louvre_Pyramid{
+    padding-top: 50px;
+    display: flex;
+    font-size: 1.2em;
+}
+.Louvre_Pyramid-2 h1,.kiyomizu_dera-2 h1{
+    margin-top: 0px;
+}
+.Louvre_Pyramid-2 h2,.kiyomizu_dera-2 h2{
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
+.Louvre_Pyramid-2{
+    margin-top: 80px;
+
+}
+hr{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.kiyomizu_dera{
+    margin-top: 100px;
+
+    font-size: 1.2em;
+}
+.kiyomizu_dera-2{
+    margin-top: 50px;
+}
+.Europe{
+    margin-top: 50px;
+
+    text-align: center;
+}
+.Europe h2{
+    margin-top: 3px;
+}
+
+.aviation{
+    margin-top: 50px;
+}
+.aviation-2{
+    height: 220px;
+    background-color: #ffffff;
+    border-style:solid;
+    border-width: 0.5px;
+    margin-bottom: 30px;
+}
+a{
+    height: 350px;
+    width: 1100px;
+    line-height: 350px;
+}
+
